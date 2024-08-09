@@ -10,11 +10,12 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
         <!-- @style -->
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/sport.css">
-        <link rel="stylesheet" href="assets/css/news-detail.css">
-        <link rel="stylesheet" href="assets/css/contact.css">
-        <link rel="stylesheet" href="assets/css/search.css">
+        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="/front-end/assets/css/style.css">
+        <link rel="stylesheet" href="/front-end/assets/css/sport.css">
+        <link rel="stylesheet" href="/front-end/assets/css/news-detail.css">
+        <link rel="stylesheet" href="/front-end/assets/css/contact.css">
+        <link rel="stylesheet" href="/front-end/assets/css/search.css">
         <!-- @google font -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

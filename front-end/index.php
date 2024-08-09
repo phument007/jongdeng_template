@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include "components/header.php"; ?>
 <main class="home">
     <section class="trending">
         <div class="container">
@@ -239,4 +239,4 @@
         </div>
     </section>
 </main>
-<?php include('footer.php'); ?>
+<?php include "components/footer.php"; ?>

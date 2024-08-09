@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include "components/header.php"; ?>
     <div class="content contact">
         <section class="trending">
             <div class="container">
@@ -82,4 +82,4 @@
             </div>
         </section>
     </div>
-<?php include('footer.php'); ?>
+<?php include "components/footer.php"; ?>
